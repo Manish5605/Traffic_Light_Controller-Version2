@@ -37,26 +37,8 @@ The design is fully **RTL synthesizable** and follows a modular hardware archite
 
 # 🏗 Project Architecture
 
-```
-                   +-------------------------+
-                   |     Priority Encoder    |
-                   +------------+------------+
-                                |
-                        Emergency + Direction
-                                |
-                                ▼
-                     +----------------------+
-                     | Emergency Controller |
-                     +----------+-----------+
-                                |
-                     Emergency Light Outputs
-                                |
-                                ▼
-                        Output Selection
-                                ▲
-                                |
-                     Normal Traffic Controller
-```
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f5e43eb3-cf89-4ffc-ab67-118f14be6c01" />
 
 ---
 
