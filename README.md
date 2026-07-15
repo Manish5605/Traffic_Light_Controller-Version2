@@ -203,7 +203,8 @@ Behavioral simulation verifies:
 - Proper light sequencing
 - Return to normal operation after emergency
 
-*(Add waveform screenshot here)*
+<img width="1068" height="752" alt="Simulation_V2" src="https://github.com/user-attachments/assets/f6a9a272-ea4f-4045-b0cf-10936884259c" />
+
 
 ---
 
