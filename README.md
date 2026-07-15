@@ -68,7 +68,6 @@ Smart-Traffic-Controller
 ├── traffic_controller.v
 ├── emergency_controller.v
 ├── priority_encoder.v
-├── timer.v
 ├── top.v
 ├── top_tb.v
 └── README.md
